@@ -1,0 +1,1 @@
+faça um texto para ebook, com foco em as função na programação como frontend, backend e fullstack, linstando os principais seletores dessese setores com exemplo de onde atua {REGRAS} >Explique sempre de uma maneira simples >Deixe o texto enxuto >sempre traga exemplos de códigos e exemplos de códigos que é usado >sempre deixe um titulo sugestivo por topico
